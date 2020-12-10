@@ -1,7 +1,7 @@
 # TheSparksFoundation-Tasks
 
 ### Task 1 - Prediction using Supervised Machine Learning
-Predict the percentage of a student based on the number of study hours.
+Predict the percentage of a student based on the number of hours studied.
 
 ### Dataset description 
 Dataset name: student_scores.csv  
